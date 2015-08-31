@@ -25,6 +25,8 @@ Did you finished the match, but you'd watch more? Next to the timeline, on the l
 2. Create a database
 3. Import the SQL from the file: db/db_sql.rar (extract it before you gonna work with that)
 
+If you want to try out the generator.php too (to create the database tables from scratch), dont forget to modify the api_key.php and replace the key with your own.
+
 # Under the hood (short)
 We are keeping the datas and the statistics of the matches in a database. These processes are transacted by the generator.php. It processes all the matches one by one and keeps just the data what we need. Because of that the pages loading time significantly reduces.
 #Technologies
