@@ -29,7 +29,7 @@ We are keeping the datas and the statistics of the matches in a database. These 
 
 #Recommended Resolution:
 1920x1080
-(This doesn't mean you can't check it on other resolutions, but this is the most optional one. As much as we could, we tried to make it responsive, but because of the short time, and technological barriers, it couldn't be done. It's a "to do" from here.)
+(This doesn't mean you can't check it on other resolutions, but this is the most optional one. As much as we could, we tried to make it responsive, but because of the short time, and technological barriers, it couldn't be done. It's a "To Do" from here.)
 
 #To Do List
 - FULL RESPONSIVE
