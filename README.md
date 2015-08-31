@@ -1,3 +1,4 @@
+
 # Live URL
 xy
 # What's this?
@@ -23,6 +24,7 @@ We are keeping the datas and the statistics of the matches in a database. These 
 - Bootstrap - http://getbootstrap.com/
 - LESS - http://lesscss.org/
 - Pace - http://github.hubspot.com/pace/docs/welcome/
+
 #Recommended Resolution:
 1920x1080
 (This doesn't mean you can't check it on other resolutions, but this is the most optional one. As much as we could, we tried to make it responsive, but because of the short time, and technological barriers, it couldn't be done. It's a "to do" from here.)
