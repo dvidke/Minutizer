@@ -33,7 +33,7 @@ We are keeping the datas and the statistics of the matches in a database. These 
 
 #To Do List
 - FULL RESPONSIVE
-- Because the application itself is independent from the bilgewater event (on the code side), so normal games can be easily representated as well. So later there could be even a "last game by summoner name" thing.
+- Because the application itself is independent from the Bilgewater Event (on the code side), so normal games can be easily representated as well. So later there could be even a "last game by summoner name" thing.
 
 #Licence
 We dont have any.
