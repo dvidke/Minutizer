@@ -23,6 +23,7 @@ We are keeping the datas and the statistics of the matches in a database. These 
 - Data-Driven Documents - The manipulation of the SVG element runned by D3JS. - http://d3js.org/
 - Easy Pie Chart - http://rendro.github.io/easy-pie-chart/
 - Bootstrap - http://getbootstrap.com/
+- jQuery - https://jquery.com/
 - LESS - http://lesscss.org/
 - Pace - http://github.hubspot.com/pace/docs/welcome/
 
