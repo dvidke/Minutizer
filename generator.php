@@ -33,6 +33,9 @@ $brawler_ids = array(3611, 3612, 3613, 3614);
  */
 foreach ($matches_json as $key => $match) {
 
+    /**
+     * Set the amount of row at once (remove "if" statement if you dont care about the quantity)
+     */
     if ($key == 100) {
         break;
     }
