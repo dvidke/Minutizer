@@ -25,14 +25,10 @@ http://www.smarty.net/
 - Data-Driven Documents (d3js)
 The manipulation of the SVG element runned by D3JS.
 http://d3js.org/
-- Easy Pie Chart
-http://rendro.github.io/easy-pie-chart/
-- Bootstrap
-http://getbootstrap.com/
-- LESS
-http://lesscss.org/
-- Pace
-http://github.hubspot.com/pace/docs/welcome/
+- Easy Pie Chart (http://rendro.github.io/easy-pie-chart/)
+- Bootstrap (http://getbootstrap.com/)
+- LESS (http://lesscss.org/)
+- Pace (http://github.hubspot.com/pace/docs/welcome/)
 #Recommended Resolution:
 1920x1080
 (This doesn't mean you can't check it on other resolutions, but this is the most optional one. As much as we could, we tried to make it responsive, but because of the short time, and technological barriers, it couldn't be done. It's a "to do" from here.)
