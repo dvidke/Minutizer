@@ -20,7 +20,6 @@ $items_data = $api->getItems('eune');
  */
 $array_to_write = array();
 $matches_json = json_decode(file_get_contents('matches/' . strtoupper($region) . '.json'), true);
-$i = -1;
 
 /**
  * Get the static datas through the API
