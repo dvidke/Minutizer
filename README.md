@@ -16,19 +16,13 @@ Did you finished the match, but you'd watch more? Next to the time line, on the 
 # Under the hood (short)
 We are keeping the datas and the statistics of the matches in a database. These processes are transacted by the generator.php. It processes all the matches one by one and keeps just the data what we need. Because of that the pages loading time significantly reduces.
 #Technologies
-- PHP
-PHP manages the datas, and places them into the database. The final outputs are stored in Smarty variables.
-http://php.net/
-- Smarty
-The available datas processed by Smarty Template Engine, and this is what we used for the front-end.
-http://www.smarty.net/
-- Data-Driven Documents (d3js)
-The manipulation of the SVG element runned by D3JS.
-http://d3js.org/
-- Easy Pie Chart (http://rendro.github.io/easy-pie-chart/)
-- Bootstrap (http://getbootstrap.com/)
-- LESS (http://lesscss.org/)
-- Pace (http://github.hubspot.com/pace/docs/welcome/)
+- PHP - PHP manages the datas, and places them into the database. The final outputs are stored in Smarty variables. - http://php.net/
+- Smarty - The available datas processed by Smarty Template Engine, and this is what we used for the front-end. - http://www.smarty.net/
+- Data-Driven Documents - The manipulation of the SVG element runned by D3JS. - http://d3js.org/
+- Easy Pie Chart - http://rendro.github.io/easy-pie-chart/
+- Bootstrap - http://getbootstrap.com/
+- LESS - http://lesscss.org/
+- Pace - http://github.hubspot.com/pace/docs/welcome/
 #Recommended Resolution:
 1920x1080
 (This doesn't mean you can't check it on other resolutions, but this is the most optional one. As much as we could, we tried to make it responsive, but because of the short time, and technological barriers, it couldn't be done. It's a "to do" from here.)
