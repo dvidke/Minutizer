@@ -1,5 +1,5 @@
 # For the other participants
-<a href="https://www.youtube.com/watch?v=nuHfVn_cfHU" target="_blank">https://www.youtube.com/watch?v=nuHfVn_cfHU</a>
+https://www.youtube.com/watch?v=nuHfVn_cfHU
 # Live URL
 xy
 # What's this?
