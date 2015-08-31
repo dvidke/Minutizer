@@ -5,7 +5,11 @@ xy
 # What's this?
 This is our entry to the RIOT GAMES API CHALLENGE 2.0 : Black Market Brawlers category.
 #What is it about?
-The Minutizer is a web based application, which is created to represent a randomly selected Black Market Brawlers Game (from all regions) minute by minute. Using the application you can follow how the matches are developing, and how and when the teams prefered their items, and brawlers choose because of the circumtances. The purpose of the application is to do all of these things interactively instead of just showing raw data. Why would you read raw data, when you can 'play' it how the matches took place in the event! You only have to scroll with your mouse (or navigate with the keyboard) and experience the legendary bloody battles!
+The Minutizer is a web based application, which is created to represent a randomly selected Black Market Brawlers Game (from all regions) minute by minute. 
+
+Using the application you can follow how the matches are developing, and how and when the teams prefered their items, and brawlers choose because of the circumtances. The purpose of the application is to do all of these things interactively instead of just showing raw data. 
+
+Why would you read raw data, when you can 'play' it how the matches took place in the event! You only have to scroll with your mouse (or navigate with the keyboard) and experience the legendary bloody battles!
 
 Let's srcoll!
 # How to use?
