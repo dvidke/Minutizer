@@ -1,7 +1,7 @@
 # For the other participants
 https://www.youtube.com/watch?v=n5SiHiS3lEw
 # Live URL
-xy
+http://minutizer.swhost2.hu/
 # What's this?
 This is our entry to the RIOT GAMES API CHALLENGE 2.0 : Black Market Brawlers category.
 #What is it about?
@@ -18,6 +18,14 @@ Opening the application, you find a short instruction, which you can leave by sc
 When you reach the end of the match, you will know which team won, and with the next scroll you can check the ratio of the most frequent items bought in the Black Market. You can reach this page by clicking on the 'Jump to stats' button next to the timeline.
 
 Did you finished the match, but you'd watch more? Next to the timeline, on the left side you can find the "Randomize" button, which will generate a new match for you.
+
+#If you'd like to setup our project
+
+1. Edit this file: db/db_connection.php
+2. Create a database
+3. Import the SQL from the file: db/db_sql.rar (extract it before you gonna work with that)
+
+If you want to try out the generator.php too (to create the database tables from scratch), don't forget to modify the api_key.php and replace the key with your own.
 
 # Under the hood (short)
 We are keeping the datas and the statistics of the matches in a database. These processes are transacted by the generator.php. It processes all the matches one by one and keeps just the data what we need. Because of that the pages loading time significantly reduces.
