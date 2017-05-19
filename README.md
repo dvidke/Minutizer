@@ -17,7 +17,7 @@ When you reach the end of the match, you will know which team won, and with the 
 
 Did you finished the match, but you'd watch more? Next to the timeline, on the left side you can find the "Randomize" button, which will generate a new match for you.
 
-#If you'd like to setup our project
+# If you'd like to setup our project
 
 1. Edit this file: db/db_connection.php
 2. Create a database
@@ -37,14 +37,14 @@ We are keeping the datas and the statistics of the matches in a database. These 
 - LESS - http://lesscss.org/
 - Pace - http://github.hubspot.com/pace/docs/welcome/
 
-#Recommended Resolution:
+# Recommended Resolution:
 1920x1080
 
 (This doesn't mean you can't check it on other resolutions, but this is the most optional one. As much as we could, we tried to make it responsive, but because of the short time, and technological barriers, it couldn't be done. It's a "To Do" from here.)
 
-#To Do List
+# To Do List
 - FULL RESPONSIVE
 - Because the application itself is independent from the Bilgewater Event (on the code side), so normal games can be easily representated as well. So later there could be even a "last game by summoner name" thing.
 
-#Licence
+# Licence
 We dont have any.
