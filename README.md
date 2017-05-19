@@ -1,7 +1,5 @@
 # For the other participants
 https://www.youtube.com/watch?v=ZXsQAXx_ao0
-# Live URL
-http://minutizer.swhost2.hu/
 # What's this?
 This is our entry to the RIOT GAMES API CHALLENGE 2.0 : Black Market Brawlers category.
 #What is it about?
