@@ -9,7 +9,7 @@ Using the application you can follow how the matches are developing, and how and
 
 Why would you read raw data, when you can 'play' it how the matches took place in the event! You only have to scroll with your mouse (or navigate with the keyboard) and experience the legendary bloody battles!
 
-Let's srcoll!
+Let's scroll!
 # How to use?
 Opening the application, you find a short instruction, which you can leave by scrolling or with the help of the navigation buttons, that will take you to the game itself. After this you don't have to do other, just lean back and rush in time, back and forth, like Ekko does!
 
